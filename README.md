@@ -1,5 +1,6 @@
 # UnitTestSolutionPostProcessor
-Adds a UnitTest project to the Unity generated solution
+Adds a UnitTest project to the Unity generated solution every time unity imports assets.
+Working with Unity and Unit tests can be boring as every time a new file is added through Unity the sln file is re-generated and the refereces to other projects are lost. This script is meant to solve this problem.
 
 ### Usage ###
 

@@ -18,4 +18,5 @@ Place the script on your Editor folder and then set the solution and project par
 	// unit test project name (as will appear in the solution)
 	private const string UNIT_TEST_PRJ_NAME = "UnitTests";
 ```
+*In this example I have a Unity project called "MyUnityProject" and I've placed the Unit test project in a subfolder "UnitTest/UnitTest.csproj"*
  
